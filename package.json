@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "node-ssh": "^5.1.2"
+    "node-ssh": "^5.1.2",
+    "ssh2": "^0.6.1"
   }
 }
